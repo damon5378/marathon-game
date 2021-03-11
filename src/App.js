@@ -4,6 +4,8 @@ import { Layout } from "./components/Layout";
 import { Footer } from "./components/Footer";
 import pica from "./img/pica.jpg";
 
+//
+
 function App() {
   return (
     <div className="App">
